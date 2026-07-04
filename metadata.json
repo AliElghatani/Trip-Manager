@@ -1,0 +1,6 @@
+{
+  "name": "Trip & Fleet Manager",
+  "description": "Professional Libyan Trip, Fleet & Logistics Management Application with Arabic localization, Room database persistence, and billing PDF generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
